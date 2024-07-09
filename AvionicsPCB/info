@@ -1,0 +1,196 @@
+{
+  "uuid": "24686988d959e047be56b87771cfa54d",
+  "path": "Offline/WristMountedAvionics",
+  "name": "WristMountedAvionics",
+  "content": "",
+  "created_at": "2024-07-09 13:45:25",
+  "updated_at": "2024-07-09 14:54:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f3f054705d3239871eb4849d9e9d4375",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "9d75be3c78b8404d97933262064f7d34": 1,
+        "1b01dae437444b9bb69441cc0e3ee32f": 1,
+        "40d0b530e1d44de799b5d400d7b3aed9": 1,
+        "8eade5dcd50942ce97cc64da86f62cea": 2,
+        "bb429d9165a947ecae5870ad4e0dcfcc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10K Potentiometer With Knob 90",
+          2,
+          "10K-POTENTIOMETER",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Adafruit ADXL345 -S",
+          1,
+          "ACCELEROMETER_ADAFRUIT ADXL345",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BMP280",
+          1,
+          "BMP280YSF BMP280YSF BMP280YSF BMP",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX7219 Dot Matrix Display",
+          1,
+          "MAX7219",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ATMEGA328P_ARDUINO",
+          1,
+          "ATMEGA328P",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1720551217,
+      "createTime": 1720547126,
+      "histories": [],
+      "created_at": "2024-07-09 13:45:26",
+      "updated_at": "2024-07-09 14:53:37"
+    },
+    {
+      "uuid": "4cc301fc6bfa2bb50d2fdbc57a130b5d",
+      "puuid": "24686988d959e047be56b87771cfa54d",
+      "title": "PCB_WristMountedAvionics",
+      "filename": "PCB_WristMountedAvionics.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "507b2a35f0784938a468cbb052d75096": 2,
+        "fa9747d7193c4306840dc72b2fed768a": 1,
+        "811cfc699fda40d19ca20858ba07c7e9": 1,
+        "f52b04aaced242d7a60c2d13bca5d8f0": 1,
+        "31c77e3004414e21b472cbb772f1ce2c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10K Potentiometer With Knob 90",
+          2,
+          "10K-POTENTIOMETER",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Adafruit ADXL345 -S",
+          1,
+          "ACCELEROMETER_ADAFRUIT ADXL345",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BMP280",
+          1,
+          "BMP280YSF BMP280YSF BMP280YSF BMP",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MAX7219 Dot Matrix Display",
+          1,
+          "MAX7219",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ATMEGA328P_ARDUINO",
+          1,
+          "ATMEGA328P",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1720551271,
+      "createTime": 1720551271,
+      "histories": [],
+      "created_at": "2024-07-09 14:54:31",
+      "updated_at": "2024-07-09 14:54:31"
+    }
+  ],
+  "sort": [],
+  "title": "WristMountedAvionics",
+  "foldername": "WristMountedAvionics",
+  "schfilename": "WristMountedAvionics.json",
+  "schfilemtime": 1720551217090
+}
